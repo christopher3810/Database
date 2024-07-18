@@ -3,9 +3,9 @@
     <h1>Database 🗄️✨</h1>
 </div>
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/christopher3810/DomainDrivenDesign?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/christopher3810/DomainDrivenDesign?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/christopher3810/Database?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/christopher3810/Database?style=for-the-badge)
 
-Database Deep Dive
+> Database Deep Dive
 
 ### ✨ 표기법
 ---
