@@ -34,17 +34,17 @@
 
 #### 🔗 Database 관련 링크
 ---
-- [📘 DB-Engines Ranking](https://db-engines.com/en/ranking)\
-- [🎥 CMU Database Group YouTube](https://www.youtube.com/c/CMUDatabaseGroup)\
-- [📰 데이터베이스 주간 뉴스레터](https://dbweekly.com/)\
-- [📈 Use The Index, Luke!: SQL 인덱싱 및 튜닝](https://use-the-index-luke.com)\
-- [🔍 EXPLAIN.DALIBO: PostgreSQL EXPLAIN 시각화](https://explain.dalibo.com)\
-- [🌐 Planet MySQL](https://planet.mysql.com/)\
+- [📘 DB-Engines Ranking](https://db-engines.com/en/ranking)
+- [🎥 CMU Database Group YouTube](https://www.youtube.com/c/CMUDatabaseGroup)
+- [📰 데이터베이스 주간 뉴스레터](https://dbweekly.com/)
+- [📈 Use The Index, Luke!: SQL 인덱싱 및 튜닝](https://use-the-index-luke.com)
+- [🔍 EXPLAIN.DALIBO: PostgreSQL EXPLAIN 시각화](https://explain.dalibo.com)
+- [🌐 Planet MySQL](https://planet.mysql.com/)
 - [📈 MySQL Performance Blog by Percona](https://www.percona.com/blog/)
 
 #### 📖 공식 문서
 ---
-- [🐘 PostgreSQL 공식 문서](https://www.postgresql.org/docs/)\
-- [🍃 MongoDB 공식 문서](https://docs.mongodb.com/)\
-- [🗄️ MySQL 공식 문서](https://dev.mysql.com/doc/)\
+- [🐘 PostgreSQL 공식 문서](https://www.postgresql.org/docs/)
+- [🍃 MongoDB 공식 문서](https://docs.mongodb.com/)
+- [🗄️ MySQL 공식 문서](https://dev.mysql.com/doc/)
 - [🔶 Amazon DynamoDB 문서](https://docs.aws.amazon.com/dynamodb/)
